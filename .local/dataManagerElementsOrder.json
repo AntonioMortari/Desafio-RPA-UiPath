@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "códigoestado&Sequence_5",
+        "GmailCredentials&Sequence_5",
+        "planilhaCompleta&Sequence_5",
+        "jsonString&Sequence_21",
+        "status&Sequence_24",
+        "variable2&Sequence_25"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GetGmailCredentials.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GmailCredentials&Sequence_1",
+        "jsonString&Sequence_1",
+        "GmailCredentialsContent&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
